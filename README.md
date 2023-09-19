@@ -1,0 +1,1 @@
+Welcome to the GitHub repository dedicated to the "Metacrafters Course Challenges"! In this repository, you will find a curated collection of coding challenges and exercises that are an integral part of the Metacrafters course. These challenges are designed to help you develop your programming skills, explore new concepts, and deepen your understanding of various technologies.
